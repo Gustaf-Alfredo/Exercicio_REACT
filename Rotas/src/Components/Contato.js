@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Contato.module.css';
-import foto from '../img/contato.jpg';
+import foto from '../img/Contato.jpeg';
 import Head from './Head';
 
 const Contato = () => {
